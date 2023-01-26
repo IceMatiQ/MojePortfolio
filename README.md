@@ -1,0 +1,2 @@
+# MojePortfolio
+Projekt Na Wasa
